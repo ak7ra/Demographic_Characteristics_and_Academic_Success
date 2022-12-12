@@ -8,7 +8,7 @@ Academic success is often seen as linked to future success and opportunities. Ho
 
 2) Predict the final grade for each student
 
-The data are from Kaggle and consist of 33 predictor variables.
+The data is from Kaggle (https://www.kaggle.com/datasets/uciml/student-alcohol-consumption) and consist of 33 predictor variables.
 
 The project uses several Bayesian regression models, specifically two simple Bayesian linear regression models and a Bayesian Additional Regression Trees (BART) model, to explore the uncertainty surrounding a student's academic success given their demographic characteristics. 
 
