@@ -3,9 +3,9 @@
 This is the final project for the graduate level course Bayesian Machine Learning (DS6040) taught at the University of Virginia. The project uses several Bayesian regression models, specifically two simple Bayesian linear regression models and a Bayesian Additional Regression Trees (BART) model to explore the uncertainty surrounding a student's academic success given their demographic characteristics.
 
 ## Metadata
-Name: Ami Kano, Rhea Agarwal, Tatev Kyosababyan <br />
-GitHub Username: ak7ra <br />
-Project Name : Demographic Characteristics and Academic Success
+**Name:** Ami Kano, Rhea Agarwal, Tatev Kyosababyan <br />
+**GitHub Username:** ak7ra <br />
+**Project Name:** Demographic Characteristics and Academic Success
 
 ## Synopsis
 
