@@ -28,6 +28,8 @@ To run the file `Bayesian_Models.ipynb`, you must have these Python Packages ins
 
 ## Manifest
 
+Files larger than 25MB have been compressed into ZIP files.
+
 * Bayesian_Models.ipynb.zip
   * Bayesian_Models.ipynb
 * Bayesian_Models.html.zip
