@@ -48,4 +48,5 @@ Files larger than 25MB have been compressed into ZIP files.
   * Bayesian_Models.html
 * Bayesian_Analysis_Presentation.pdf
 * Bayesian_Analysis_Report.pdf
+* student-mat.csv
 * README.md
