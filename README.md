@@ -28,8 +28,10 @@ To run the file `Bayesian_Models.ipynb`, you must have these Python Packages ins
 
 ## Manifest
 
-* Bayesian_Models.ipynb
-* Bayesian_Models.html
+* Bayesian_Models.ipynb.zip
+  * Bayesian_Models.ipynb
+* Bayesian_Models.html.zip
+  * Bayesian_Models.html
 * Bayesian_Analysis_Presentation.pdf
 * Bayesian_Analysis_Report.pdf
 * README.md
