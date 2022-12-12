@@ -31,6 +31,7 @@ To run the file `Bayesian_Models.ipynb`, you must have these Python Packages ins
 
 * `warnings`
 * `pymc3`
+* `pymc_bart`
 * `sklearn`
 * `numpy`
 * `pandas`
