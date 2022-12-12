@@ -42,11 +42,11 @@ To run the file `Bayesian_Models.ipynb`, you must have these Python Packages ins
 
 Files larger than 25MB have been compressed into ZIP files.
 
+* Bayesian_Analysis_Presentation.pdf
+* Bayesian_Analysis_Report.pdf
 * Bayesian_Models.ipynb.zip
   * Bayesian_Models.ipynb
 * Bayesian_Models.html.zip
   * Bayesian_Models.html
-* Bayesian_Analysis_Presentation.pdf
-* Bayesian_Analysis_Report.pdf
-* student-mat.csv
 * README.md
+* student-mat.csv
