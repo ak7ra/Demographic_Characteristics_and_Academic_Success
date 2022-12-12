@@ -4,7 +4,7 @@ This is the final project for the graduate level course Bayesian Machine Learnin
 
 ## Metadata
 **Name:** Ami Kano, Rhea Agarwal, Tatev Kyosababyan <br />
-**GitHub Username:** ak7ra <br />
+**GitHub Username:** ak7ra, ra5rc, tatevkyosababyan <br />
 **Project Name:** Demographic Characteristics and Academic Success
 
 ## Synopsis
